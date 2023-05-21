@@ -1,0 +1,26 @@
+{
+    "name": "reilag/php-captchas-io",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "CAPTCHAs.IO - Is PHP Library for working with captchas.io services",
+    "keywords": ["php", "captchas-io", "captchasio", "rucaptcha"],
+    "homepage": "https://captchas.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Glenn Prialde",
+            "email": "admin@captchas.io"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.6",
+        "guzzlehttp/guzzle": "^7.0.1",
+        "psr/log": "~1",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CaptchasIO\\": "src/"
+        }
+    }
+}
