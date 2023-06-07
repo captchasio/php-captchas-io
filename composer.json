@@ -1,5 +1,5 @@
 {
-    "name": "reilag/php-captchas-io",
+    "name": "captchasio/php-captchas-io",
     "version": "1.0.0",
     "type": "library",
     "description": "CAPTCHAs.IO - Is PHP Library for working with captchas.io services",
