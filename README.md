@@ -18,8 +18,6 @@ This client supports resolving captcha types:
 To Do:
  - FunCaptcha
  - GeeTest captcha
- - Solving HCaptcha
-
 
 ### Recognize captcha from image
 
